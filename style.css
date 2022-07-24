@@ -25,3 +25,9 @@ section h1 {
 .buttons {
     margin: 25px;
 }
+.btn {
+    padding: 10px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
